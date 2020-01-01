@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Salary report analysis & dynamic visualization with plotly and pandas
 
-You can use the [editor on GitHub](https://github.com/Ksyula/Salary-report/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Data for this report was collected from European IT community in 2015-2019. Special thanks to [Viktor](https://www.asdcode.de/) for great datasets!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Analysis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To take a look at the analysis please [click here](https://ksyula.github.io/Salary-report/).
 
-```markdown
-Syntax highlighted code block
+### Datasets
+Data used for plotting is available in spreadsheets:
 
-# Header 1
-## Header 2
-### Header 3
+[2015](https://docs.google.com/spreadsheets/d/1HxFcvoUYCxHFYRQfnGkCWc2OydUyvL8J8SsH5aWmd8g/edit#gid=395050397)
+[2016](https://docs.google.com/spreadsheets/d/1HxFcvoUYCxHFYRQfnGkCWc2OydUyvL8J8SsH5aWmd8g/edit#gid=1435836303)
+[2017](https://docs.google.com/spreadsheets/d/14DvDMc-RWkZFBdaY5WvETiudWIe8u-DNarAoIqZemXU/edit#gid=1018969845)
+[2018](https://docs.google.com/spreadsheets/d/1qRLoD-9vHUC76Wgh1eOqZWeGoSoNkWOnuV6vce5pmLo/edit#gid=825462253)
+[2019](https://docs.google.com/spreadsheets/d/13p6Hr9kSZuVKbQgOT_BcgasEvOuqEvt0Y0c78S5rlvw/edit#gid=1753613754)
 
-- Bulleted
-- List
+### List of available plotly/matplotlib charts
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ksyula/Salary-report/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Overall dynamics over 2015-2019 years
+* interactive plotly line plot of number of responses
+* interactive plotly line plot of median of salaries
+2. Age of respondents participating in salary survey 2019
+* interactive plotly bar chart
+3. Gender of respondents participating in salary survey 2019
+* interactive plotly pie chart representing the proportion of respondents by gender
+4. Cities & countries of respondents
+* static matplotlib donut chart of the major cities in the survey responses & average salaries in cities
+* static matplotlib donut chart of the major german cities & average salaries in cities
+5. Languages of respondents participating in salary survey 2019
+* static matplotlib Pie-in-a-Donut chart of the most common languages at work in common countries
+* stacked bar chart by company types and used languages
+6. Salaries of tech specialists from survey 2019
+* interactive plotly scatter of salaries (EUR/year) vs. total experience in years of developers and technical specialists
+* interactive plotly rug plots of salaries by seniority level
+7. Salaries of specialists by technology/programming language
+* interactive plotly bar chart of responders' shares by technologies
+* interactive plotly ensemble of boxplots by technologies
+8. Yearly brutto salaries of specialists in Germany in 2018-2019 years with bonuses and stocks
+* interactive plotly facet boxplots to compare salaries distributions over 2018-2019 with bonuses and stocks
+9. Yearly brutto yearly salaries of all specialists from Germany participated in surveys from 2015 to 2019.
+* interactive plotly 1D density curves of brutto salaries by years
+* interactive plotly rug plots of salaries by years
+10. Yearly brutto salaries across the most represented cities in survey 2019
+* interactive plotly 1D density curves of brutto salaries by cities
+* interactive plotly rug plots of salaries by years
+11. Yearly brutto salaries of specialists by seniority level in two german cities
+* ensemble of interactive plotly histograms by seniority level per city
