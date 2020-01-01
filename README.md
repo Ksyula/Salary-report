@@ -5,7 +5,7 @@ Data for this report was collected from European IT community in 2015-2019. Spec
 
 ### Analysis
 
-To take a look at the analysis please [click here](https://ksyula.github.io/Salary-report/).
+To take a look at the analysis please [click here](https://ksyula.github.io/Salary-report/index.html).
 
 ### Datasets
 Data used for plotting is available in spreadsheets:
