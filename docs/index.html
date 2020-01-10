@@ -13118,7 +13118,7 @@ div#notebook {
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1 align="center"> IT Salary Survey December 2019</h1><p>The salary survey originated in 2015 in the Russian-speaking community and has been conducted every December for 5 years so far. The previous articles with survey results' analytics can be found on www.asdcode.de. Here you can find some analytics based on collected survey responses from December 2019.</p>
 <p>Thanks to everyone who filled out the <a href = "https://docs.google.com/forms/d/e/1FAIpQLSckWCuRD4_QePOM0trRzH6v2fl6qBRMxpqJ_23VSJZhr704ag/viewform">salary survey form in 2019</a>.</p>
-<h3 align="left"> 1. Overall dynamics over 2015 - 2019</h3><p>In December 2019, 986 respondents filled out the salary survey out. The survey has been conducted since 2015. Line charts below show the 5-year dynamics of the rising number of respondents along with their median salaries by years.</p>
+<h3 align="left"> 1. Overall dynamics over 2015 - 2019</h3><p>In December 2019, 986 respondents filled the salary survey out. The survey has been conducted since 2015. Line charts below show the 5-year dynamics of the rising number of respondents along with their median salaries by years.</p>
 
 </div>
 </div>
@@ -13179,20 +13179,6 @@ div#notebook {
 <h3 align="left"> 2. Age</h3>
 </div>
 </div>
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[176]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">ages</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s2">&quot;Age&quot;</span><span class="p">])</span><span class="o">.</span><span class="n">size</span><span class="p">()</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span><span class="o">.</span><span class="n">rename</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">{</span><span class="mi">0</span><span class="p">:</span> <span class="s2">&quot;Number of responses&quot;</span><span class="p">})</span>
-<span class="n">ages</span><span class="p">[</span><span class="s2">&quot;Age&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="n">ages</span><span class="p">[</span><span class="s2">&quot;Age&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">int</span><span class="p">)</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
@@ -14011,7 +13997,7 @@ Compared to 2018, in 2019 not only yearly Brutto salaries increased, but also bo
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>The salaries in Berlin and Munich are broadly similar.</p>
 <p>The Senior-level salary distributions have the same medians: 75k in Berlin and in Munich. Their averages are around 77.5k in Berlin and 84k in Munich. 80% of Senior-level salaries are concentrated between 60–100k in Berlin. In Munich there are 71% within that salary range and 19% of salaries are above 100k.</p>
-<p>The Middle-level specialists in Berlin and in Munich get paid up mostly up to 75k.</p>
+<p>The Middle-level specialists in Berlin and in Munich get paid mostly up to 75k.</p>
 
 </div>
 </div>
