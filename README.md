@@ -7,8 +7,9 @@ Data for this report was collected from European IT community in 2015-2020. Spec
 
 ### Analysis
 
-Salary survey report 2019 - [click here](https://ksyula.github.io/Salary-report/index.html).
-Salary survey report 2020 - 
+Salary survey report 2019 - [click here](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2019/salary-report-2019.ipynb)
+
+Salary survey report 2020 - [click here](https://ksyula.github.io/Salary-report/index.html)
 
 ### Datasets
 Data used for plotting is available in spreadsheets:
