@@ -1,11 +1,14 @@
-## Salary report analysis & dynamic visualization with plotly and pandas
+## Salary survey reports
 
-Data for this report was collected from European IT community in 2015-2019. Special thanks to [Viktor](https://www.asdcode.de/) for great datasets!
+Analysis & dynamic visualizations were built with pandas, numpy, matplotlib, plotly, and other common python libs.
+
+Data for this report was collected from European IT community in 2015-2020. Special thanks to [Viktor](https://www.asdcode.de/) for great datasets!
 
 
 ### Analysis
 
-To take a look at the analysis please [click here](https://ksyula.github.io/Salary-report/index.html).
+Salary survey report 2019 - [click here](https://ksyula.github.io/Salary-report/index.html).
+Salary survey report 2020 - 
 
 ### Datasets
 Data used for plotting is available in spreadsheets:
@@ -15,6 +18,7 @@ Data used for plotting is available in spreadsheets:
 [2017](https://docs.google.com/spreadsheets/d/14DvDMc-RWkZFBdaY5WvETiudWIe8u-DNarAoIqZemXU/edit#gid=1018969845)
 [2018](https://docs.google.com/spreadsheets/d/1qRLoD-9vHUC76Wgh1eOqZWeGoSoNkWOnuV6vce5pmLo/edit#gid=825462253)
 [2019](https://docs.google.com/spreadsheets/d/13p6Hr9kSZuVKbQgOT_BcgasEvOuqEvt0Y0c78S5rlvw/edit#gid=1753613754)
+[2020](https://docs.google.com/spreadsheets/d/1DjPgQeBu53I0Dws4YMbXyyQdWDLpMtkSu4FhGux0epY/edit#gid=1727021736)
 
 ### List of available plotly/matplotlib charts
 
