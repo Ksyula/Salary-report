@@ -11,7 +11,7 @@ Salary survey report 2019 - [click here](https://github.com/Ksyula/Salary-report
 
 Salary survey report 2020 - [click here](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2020/salary-report-2020.ipynb)
 
-Salary survey report 2021 - [click here](https://ksyula.github.io/Salary-report/index.html)
+Salary survey report 2021 - [click here](https://ksyula.github.io/Salary-report/)
 
 ### Datasets
 Data used for plotting is available in spreadsheets:
