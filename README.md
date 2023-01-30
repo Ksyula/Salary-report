@@ -2,16 +2,17 @@
 
 Analysis & dynamic visualizations were built with pandas, numpy, matplotlib, plotly, and other common python libraries.
 
-Data for this report was collected from European IT community in 2015-2021. Special thanks to [Viktor](https://www.asdcode.de/) for great datasets!
+Data for this report was collected on voluntary basis among IT specialists in Germany throughout 2015-2022.
 
+## New 2022 report is available!
 
-### Analysis
+Salary survey report 2022 - [click here]()
 
-Salary survey report 2019 - [click here](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2019/salary-report-2019.ipynb)
-
-Salary survey report 2020 - [click here](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2020/salary-report-2020.ipynb)
+### Previous reports
 
 Salary survey report 2021 - [click here](https://ksyula.github.io/Salary-report/)
+Salary survey report 2020 - [click here](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2020/salary-report-2020.ipynb)
+Salary survey report 2019 - [click here](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2019/salary-report-2019.ipynb)
 
 ### Datasets
 Data used for plotting is available in spreadsheets:
@@ -23,3 +24,4 @@ Data used for plotting is available in spreadsheets:
 [2019](https://docs.google.com/spreadsheets/d/1DjPgQeBu53I0Dws4YMbXyyQdWDLpMtkSu4FhGux0epY/edit#gid=1307037529)
 [2020](https://docs.google.com/spreadsheets/d/1DjPgQeBu53I0Dws4YMbXyyQdWDLpMtkSu4FhGux0epY/edit#gid=1727021736)
 [2021](https://docs.google.com/spreadsheets/d/1DjPgQeBu53I0Dws4YMbXyyQdWDLpMtkSu4FhGux0epY/edit#gid=799804580)
+[2022](https://docs.google.com/spreadsheets/d/1DjPgQeBu53I0Dws4YMbXyyQdWDLpMtkSu4FhGux0epY/edit#gid=850609584&fvid=576133863)
