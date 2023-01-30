@@ -6,7 +6,7 @@ Data for this report was collected on voluntary basis among IT specialists in Ge
 
 ## New 2022 report is available!
 
-Salary survey report 2022 - [click here]()
+Salary survey report 2022 - [click here](https://cloud.datapane.com/apps/87NX28A/salary-report-2022/)
 
 ### Previous reports
 
