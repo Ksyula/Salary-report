@@ -10,9 +10,13 @@ Salary survey report 2022 - [click here](https://cloud.datapane.com/apps/87NX28A
 
 ### Previous reports
 
-Salary survey report 2021 - [click here](https://ksyula.github.io/Salary-report/)
-Salary survey report 2020 - [click here](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2020/salary-report-2020.ipynb)
-Salary survey report 2019 - [click here](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2019/salary-report-2019.ipynb)
+[Salary survey report 2022](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2022/salary-report-2022.ipynb)
+
+[Salary survey report 2021](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2021/salary-report-2021.ipynb)
+
+[Salary survey report 2020](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2020/salary-report-2020.ipynb)
+
+[Salary survey report 2019](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2019/salary-report-2019.ipynb)
 
 ### Datasets
 Data used for plotting is available in spreadsheets:
