@@ -1,12 +1,21 @@
 ## Salary survey reports
 
-Analysis & dynamic visualizations were built with pandas, numpy, matplotlib, plotly, and other common python libraries.
+An anonymous salary survey has been traditionally conducted annually since 2015 among European IT specialists in Germany. Below, you will find an in-depth comparative analysis of the aggregated anonymised responses from voluntary participants.
 
-Data for this report was collected on voluntary basis among IT specialists in Germany throughout 2015-2022.
+**Purpose:** to learn a competitive value of a skillset for IT specialists depending on years of experience, position, level, etc.
 
-## New 2022 report is available!
+**Audience:** most respondents are expats living in Germany and working either for Germany or abroad (remote).
 
-Salary survey report 2022 - [click here](https://ksyula.github.io/Salary-report/)
+Previous analysis (2022) can be found [here](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2022/salary-report-2022.ipynb)
+Previously collected raw datasets are here - [2019-2023](https://docs.google.com/spreadsheets/d/1DjPgQeBu53I0Dws4YMbXyyQdWDLpMtkSu4FhGux0epY/edit#gid=1307037529)
+As always thanks to everyone participating!
+
+> - Analysis & dynamic visualizations were built with pandas, numpy, matplotlib, plotly, and other common python libraries.
+> - Data for this report was collected on voluntary basis among IT specialists in Germany throughout 2015-2023.
+
+## New 2023 report is available!
+
+Salary survey report 2023 - [click here](https://ksyula.github.io/Salary-report/)
 
 ### Previous reports
 
@@ -29,3 +38,4 @@ Data used for plotting is available in spreadsheets:
 [2020](https://docs.google.com/spreadsheets/d/1DjPgQeBu53I0Dws4YMbXyyQdWDLpMtkSu4FhGux0epY/edit#gid=1727021736)
 [2021](https://docs.google.com/spreadsheets/d/1DjPgQeBu53I0Dws4YMbXyyQdWDLpMtkSu4FhGux0epY/edit#gid=799804580)
 [2022](https://docs.google.com/spreadsheets/d/1DjPgQeBu53I0Dws4YMbXyyQdWDLpMtkSu4FhGux0epY/edit#gid=850609584&fvid=576133863)
+[2023](https://docs.google.com/spreadsheets/d/1DjPgQeBu53I0Dws4YMbXyyQdWDLpMtkSu4FhGux0epY/edit#gid=850609584&fvid=576133863)
