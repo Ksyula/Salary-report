@@ -6,7 +6,7 @@ An anonymous salary survey has been traditionally conducted annually since 2015 
 
 **Audience:** most respondents are expats living in Germany and working either for Germany or abroad (remote).
 
-Previous analysis (2022) can be found [here](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2022/salary-report-2022.ipynb)
+Previous analysis (2022) can be found [here](https://nbviewer.org/github/Ksyula/Salary-report/blob/master/Salary_servey_report_2022/salary-report-2022.ipynb)
 Previously collected raw datasets are here - [2019-2023](https://docs.google.com/spreadsheets/d/1DjPgQeBu53I0Dws4YMbXyyQdWDLpMtkSu4FhGux0epY/edit#gid=1307037529)
 As always thanks to everyone participating!
 
@@ -19,13 +19,13 @@ Salary survey report 2023 - [click here](https://ksyula.github.io/Salary-report/
 
 ### Previous reports
 
-[Salary survey report 2022](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2022/salary-report-2022.ipynb)
+[Salary survey report 2022](https://nbviewer.org/github/Ksyula/Salary-report/blob/master/Salary_servey_report_2022/salary-report-2022.ipynb)
 
-[Salary survey report 2021](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2021/salary-report-2021.ipynb)
+[Salary survey report 2021](https://nbviewer.org/github/Ksyula/Salary-report/blob/master/Salary_servey_report_2021/salary-report-2021.ipynb)
 
-[Salary survey report 2020](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2020/salary-report-2020.ipynb)
+[Salary survey report 2020](https://nbviewer.org/github/Ksyula/Salary-report/blob/master/Salary_servey_report_2020/salary-report-2020.ipynb)
 
-[Salary survey report 2019](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2019/salary-report-2019.ipynb)
+[Salary survey report 2019](https://nbviewer.org/github/Ksyula/Salary-report/blob/master/Salary_servey_report_2019/salary-report-2019.ipynb)
 
 ### Datasets
 Data used for plotting is available in spreadsheets:
