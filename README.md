@@ -23,7 +23,7 @@ Since 2015, an anonymous salary survey has been conducted annually among Europea
 
 ### 📂 Additional Resources
 - 📊 **Previous reports**:
-  - [Salary survey report 2023](https://github.com/Ksyula/Salary-report/blob/master/Salary_servey_report_2023/salary-report-2023.ipynb)
+  - [Salary survey report 2023](https://nbviewer.org/github/Ksyula/Salary-report/blob/master/Salary_servey_report_2023/salary-report-2023.ipynb)
   - [Salary survey report 2022](https://nbviewer.org/github/Ksyula/Salary-report/blob/master/Salary_servey_report_2022/salary-report-2022.ipynb)
   - [Salary survey report 2021](https://nbviewer.org/github/Ksyula/Salary-report/blob/master/Salary_servey_report_2021/salary-report-2021.ipynb)
   - [Salary survey report 2020](https://nbviewer.org/github/Ksyula/Salary-report/blob/master/Salary_servey_report_2020/salary-report-2020.ipynb)
